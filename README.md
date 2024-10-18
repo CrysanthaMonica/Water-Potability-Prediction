@@ -1,4 +1,4 @@
-# Water Potability Prediction Using Machine Learning and Bayesian Methods
+# Water Potability Prediction Using Machine Learning Bayesian Methods
 
 ## Overview
 
